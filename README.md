@@ -1,6 +1,8 @@
 # Tribute Page about Scotty Cranmer
 @freecodecamp Tribute Page Responsive Web Design Project
 
+A single-page responsive website with Font Awesome icons.
+
 Uses: **HTML5, CSS, Font-Awesome**.
 
 In this project I practiced my HTML5 and CSS skills, used Font Awesome icons. 
